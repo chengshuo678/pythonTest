@@ -1,0 +1,2 @@
+insert into tb_vivox5_coupon(uid,couponCode,status,sendTime,allocateTime,insertTime,updateTime) values("","22.0",0,unix_timestamp("2016-10-26 00:00:00")*1000,0,unix_timestamp(now())*1000,unix_timestamp(now())*1000);
+insert into tb_vivox5_coupon(uid,couponCode,status,sendTime,allocateTime,insertTime,updateTime) values("","333.0",0,unix_timestamp("2016-11-07 00:00:00")*1000,0,unix_timestamp(now())*1000,unix_timestamp(now())*1000);
